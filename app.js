@@ -21,6 +21,7 @@ const allowedOrigins = [
   'https://sie.politekniklp3i-tasikmalaya.ac.id',
   'https://pmb.politekniklp3i-tasikmalaya.ac.id',
   'https://politekniklp3i-tasikmalaya.ac.id',
+  'http://127.0.0.1:8000',
   'http://localhost:5173'
 ];
 
